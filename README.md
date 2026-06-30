@@ -61,8 +61,14 @@
 ##### ✔ Storytelling with Data
 
 # Dashboard Preview
+## Page 1 
+![Page 1](https://github.com/sherkhanpathanwork-droid/AirBnb_Global_Performance_Dashboard/blob/main/Page%201%20of%20dashboard.png)
 
+## Page 2
+![Page 2](https://github.com/sherkhanpathanwork-droid/AirBnb_Global_Performance_Dashboard/blob/main/Page%202%20of%20Dashboard.png)
 
+## Insights 
+![Page 3](https://github.com/sherkhanpathanwork-droid/AirBnb_Global_Performance_Dashboard/blob/main/Page%203%20of%20dashboard.png)
 
 # Project File
 ##### Drive Link : https://drive.google.com/file/d/1s1vwDnwIFkQ3RhVa6uxNIcOtZ-pmImF2/view?usp=drive_link
