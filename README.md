@@ -19,25 +19,25 @@
 
 # Features & Highlights 
 ## Dashboard Features 
-#### Interactive dashboard with multiple report pages
-#### Dynamic slicers for Year, Month, and Room Type
-#### KPI Cards showing overall business performance
-#### City-wise listing distribution analysis
-#### Host performance and Superhost insights
-#### Customer ratings heatmap
-#### Average room price comparison
-#### Monthly review trend analysis
-#### Host identity & profile verification insights
-#### Business insights summary page
+#### - Interactive dashboard with multiple report pages
+#### - Dynamic slicers for Year, Month, and Room Type
+#### - KPI Cards showing overall business performance
+#### - City-wise listing distribution analysis
+#### - Host performance and Superhost insights
+#### - Customer ratings heatmap
+#### - Average room price comparison
+#### - Monthly review trend analysis
+#### - Host identity & profile verification insights
+#### - Business insights summary page
 
 # Key Highlights
-#### Analyzed 279K+ Airbnb listings across 10 global cities
-#### Compared listing distribution across different cities
-#### Identified room-type wise pricing trends
-#### Evaluated customer satisfaction using multiple rating metrics
-#### Explored monthly review patterns across cities
-#### Analyzed host verification and trust indicators
-#### Created an executive insights page summarizing major business findings
+#### - Analyzed 279K+ Airbnb listings across 10 global cities
+#### - Compared listing distribution across different cities
+#### - Identified room-type wise pricing trends
+#### - Evaluated customer satisfaction using multiple rating metrics
+#### - Explored monthly review patterns across cities
+#### - Analyzed host verification and trust indicators
+#### - Created an executive insights page summarizing major business findings
 
 # Business Questions Answered
 #### • Which city has the highest number of listings?
